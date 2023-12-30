@@ -1,4 +1,4 @@
-<!-- # 🏛️ Blind Auction -->
+<#-- # 🏛️ Blind Auction -->
 
 [//]: # (<img alt="workshop/auction" width="1412" src="../.resources/auction.png">)
 
@@ -63,3 +63,4 @@ See `./run.sh` for an example.
 ```bash
 leo run <function_name>
 ```
+ 
