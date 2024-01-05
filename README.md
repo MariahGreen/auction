@@ -1,4 +1,4 @@
-<#-- # 🏛️ Blind Auction -->
+<!-- # 🏛️ Blind Auction -->
 
 [//]: # (<img alt="workshop/auction" width="1412" src="../.resources/auction.png">)
 
@@ -10,7 +10,7 @@ A first-price sealed-bid auction (or blind auction) is a type of auction in whic
 The bidder with the highest bid wins the auction.
 
 In this model, there are two parties: the auctioneer and the bidders.
-- **Bidder**: A participant in the auction.
+-   Bidder**: A participant in the auction.
 - **Auctioneer**: The party responsible for conducting the auction.
 
 We make following assumptions about the auction:
@@ -63,4 +63,4 @@ See `./run.sh` for an example.
 ```bash
 leo run <function_name>
 ```
- 
+  
